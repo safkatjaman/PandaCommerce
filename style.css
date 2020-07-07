@@ -1,0 +1,53 @@
+.orange-bg{
+    background-image: linear-gradient(rgba(226, 230, 21, 0.774), rgb(18, 130, 182));
+    border-radius: 10px;
+}
+.carousel-item{
+    padding: 20px 20px;
+}
+.price{
+    color: rgb(48, 42, 48);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 700;
+}
+.navbar{
+    border-radius: 10px;
+}
+.bg-color{
+    background-image: linear-gradient(rgba(24, 228, 243, 0.61), rgb(166, 32, 219));
+}
+.container{
+    margin-top: 30px;
+}
+.font{
+    font-size: 30px;
+}
+.essentials-1, .essentials-2, .essentials-3{
+    color: linen;
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+.essentials-1{
+    background-color: gold;
+}
+.essentials-2{
+    background-color: indianred;
+}
+.essentials-3{
+    background-color: rgb(0, 225, 255);
+}
+.categories img{
+    width: 90px;
+}
+.card{
+    box-shadow: 5px 5px 5px slategrey;
+}
+#subscribe{
+    height: 200px;
+}
+.mail{
+    padding: 10px 20px;
+}
+footer{
+    text-align: center;
+}
